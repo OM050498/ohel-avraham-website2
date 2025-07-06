@@ -13,7 +13,7 @@ const galleryItems = [
     category: "שיפוצים כלליים",
     type: "video",
     videoUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Video%202025-07-02%20at%2016.32.34-e6bKDdHnkERffwacSryaJQAhAW5is9.mp4",
-    thumbnail: "/images/gallery/bathroom-finished.png",
+    thumbnail: "/images/bathroom-finished.png",
     description: "צפו בעבודת השיפוץ המקצועית שלנו בזמן אמת - איכות וקפדנות בכל פרט",
   },
   // תיקון מקלחת - לפני ואחרי
@@ -22,8 +22,8 @@ const galleryItems = [
     title: "שיפוץ מקלחת מלא - תיקון נזקי מים",
     category: "שיפוץ אמבטיות",
     type: "image",
-    beforeImage: "/images/gallery/bathroom-before.jpg",
-    afterImage: "/images/gallery/bathroom-after.jpg",
+    beforeImage: "/images/bathroom-before.jpg",
+    afterImage: "/images/bathroom-after.jpg",
     description: "שיפוץ מלא של מקלחת כולל תיקון נזקי מים, תיקון תקרה, צביעה מקצועית ושיפור כללי",
   },
   // עיצוב סלון מודרני
@@ -33,7 +33,7 @@ const galleryItems = [
     category: "עיצוב פנים",
     type: "image",
     beforeImage: "/placeholder.svg?height=300&width=400&text=לפני - סלון ישן",
-    afterImage: "/images/gallery/living-room-design.jpg",
+    afterImage: "/images/living-room-design.jpg",
     description: "עיצוב מלא של סלון עם ריצוף שיש יוקרתי, וילונות מעוצבים, תאורה מודרנית וריהוט איכותי",
   },
   // קיר טלוויזיה מעוצב
@@ -43,7 +43,7 @@ const galleryItems = [
     category: "עיצוב פנים ונגרות",
     type: "image",
     beforeImage: "/placeholder.svg?height=300&width=400&text=לפני - קיר ריק",
-    afterImage: "/images/gallery/tv-wall-modern.jpg",
+    afterImage: "/images/tv-wall-modern.jpg",
     description: "בניית קיר טלוויזיה מעוצב עם חיפוי עץ מודרני, פסים אנכיים ותאורה משולבת",
   },
   // יחידת אחסון מעוצבת
