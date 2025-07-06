@@ -53,7 +53,7 @@ const galleryItems = [
     category: "נגרות ועיצוב",
     type: "image",
     beforeImage: "/placeholder.svg?height=300&width=400&text=לפני - קיר ריק",
-    afterImage: "/images/gallery/storage-unit.jpg",
+    afterImage: "/images/storage-unit.jpg",
     description: "בניית יחידת אחסון מעוצבת עם חיפוי עץ, מדפים נסתרים ועיצוב מודרני ופונקציונלי",
   },
   // דוגמאות נוספות
