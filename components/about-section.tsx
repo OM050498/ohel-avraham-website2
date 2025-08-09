@@ -24,9 +24,10 @@ export function AboutSection() {
                 <div className="absolute inset-0 bg-gradient-to-r from-orange-600 to-red-600 rounded-full blur opacity-75"></div>
                 <div className="relative w-64 h-64 mx-auto lg:mx-0 rounded-full overflow-hidden border-4 border-orange-500/50 shadow-2xl">
                   <img
-                    src="/images/face.jpeg"
-                    alt="אוהל אברהם - לוגו החברה"
-                    className="w-full h-full object-contain bg-white p-4"
+                      src="/images/face.jpeg"
+                      alt="אוהל אברהם - לוגו החברה"
+                      className="w-full h-full object-cover object-[50%_30%]"
+                    />
                   />
                 </div>
               </div>
