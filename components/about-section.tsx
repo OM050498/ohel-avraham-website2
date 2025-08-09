@@ -26,7 +26,7 @@ export function AboutSection() {
                   <img
                       src="/images/face.jpeg"
                       alt="אוהל אברהם - לוגו החברה"
-                      className="w-full h-full object-cover object-[50%_30%]"
+                      className="w-full h-full object-cover object-[40%_20%]"
                     />
                   />
                 </div>
