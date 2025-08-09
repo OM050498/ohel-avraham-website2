@@ -5,9 +5,9 @@ import { Button } from "@/components/ui/button"
 import { Phone, MessageCircle, Award, Clock, Users, CheckCircle } from "lucide-react"
 
 const achievements = [
-  { icon: Users, text: "מעל 500 לקוחות מרוצים", number: "500+" },
-  { icon: Clock, text: "שנות ניסיון בתחום", number: "12" },
-  { icon: CheckCircle, text: "פרויקטים הושלמו בהצלחה", number: "1000+" },
+  { icon: Users, text: "מעל 75 לקוחות מרוצים", number: "500+" },
+  { icon: Clock, text: "שנות ניסיון בתחום", number: "3" },
+  { icon: CheckCircle, text: "פרויקטים הושלמו בהצלחה", number: "60+" },
   { icon: Award, text: "דירוג ממוצע בגוגל", number: "4.9" },
 ]
 
